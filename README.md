@@ -14,6 +14,14 @@ In addition to this, classroom equipment like fans etc. have occasionally been l
 We are planning to firstly implement this project in our own campus and then extend it to other institutions.
 
 ------------------------------------------------------------------------------------------------------------------
+**Modules:**
+1. Automatic Attendance System
+2. Electricity Optimization System
+3. Windows Application (Integration of first 2 modules)
+4. Database Management System
+5. Data Visualization
+
+------------------------------------------------------------------------------------------------------------------
 **Technologies Used:** Finger-print Scanner, PIR Sensors, ESP32, Arduino IDE, Windows Application Development, MySQL, XAMPP, Google Colab
 
 ------------------------------------------------------------------------------------------------------------------
