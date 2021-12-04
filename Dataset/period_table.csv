@@ -1,0 +1,6 @@
+Day,8:00am-9:00am,9:00am-10:00am,10:30am-11:30am,11:30am-12:30pm,1:15pm-2:15pm,2:15pm-3:15pm
+Monday,ST,ST,E5,E4,OOAD,CC
+Tuesday,OOAD,CD,CC,CD,NA,NA
+Wednesday,E5,E4,CD,CC,Minor,Minor
+Thursday,CC,OOAD,E4,E5,CCLab,CCLab
+Friday,E4,E5,OOADLab,OOADLab,OOAD,CD
