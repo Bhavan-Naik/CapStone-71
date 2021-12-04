@@ -12,6 +12,7 @@ In addition to this, classroom equipment like fans etc. have occasionally been l
 
 **Scope:**
 We are planning to firstly implement this project in our own campus and then extend it to other institutions.
+
 ------------------------------------------------------------------------------------------------------------------
 **Technologies Used:** Finger-print Scanner, PIR Sensors, ESP32, Arduino IDE, Windows Application Development, MySQL, XAMPP
 
